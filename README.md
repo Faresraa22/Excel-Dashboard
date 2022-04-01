@@ -1,2 +1,6 @@
 # Excel-Dashboard
-This is for the tutorial on the Analytics Vidhya blog :
+Preview GIF :-
+
+preview
+
+Link to original dataset: excelfind.com
